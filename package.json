@@ -28,7 +28,7 @@
   "author": "Darnel Clayton",
   "dependencies": {
     "cross-fetch": "^3.0.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "yargs": "^14.2.0"
   },
   "devDependencies": {
